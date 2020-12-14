@@ -1,5 +1,8 @@
 _repo: Tydore-s-Gift_63975
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63975-h/images/cover.jpg
 creator:
   author:
     agent_name: Coppel, Alfred
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25110
     wikipedia: https://en.wikipedia.org/wiki/Alfred_Coppel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63975#Tydore-s-Gift
 gutenberg_issued: '2020-12-06'
 gutenberg_type: Text
 identifiers:
